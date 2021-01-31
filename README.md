@@ -1,2 +1,2 @@
 # passing-score-calculator-mf
-My version of Kara's passing score calculator
+My version of kpartain's passing score calculator
